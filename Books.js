@@ -25,5 +25,13 @@ const books = [
     "Status": "Died at 15 jan",
     "Book Name": "World book record", 
   },
+  
+  {
+    "id": "4",
+    "Author": "Chetan Bhagat",
+    "Born": "22 April 1947",
+    "Status": "Alive",
+    "Book Name": "400 Days", 
+},
 
 ]
